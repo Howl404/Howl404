@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Howl404.Howl404" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There;Got+Lost?;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+there;Got+lost?;" />
 </h1>
 
 <h3 align="center">Front-End Developer from Lithuania</h3>
@@ -19,7 +19,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,typescript,html,css," /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,typescript,html,css" /><br>
     <img src="https://skillicons.dev/icons?i=react,vscode,figma,git,vite,webpack" />
 </div>
 
