@@ -12,6 +12,9 @@
   <a href="mailto:volka085@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+  <a href="https://t.me/Howl404">
+    <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor="cyan" />
+  </a>
 </div>
 
  <hr/>
