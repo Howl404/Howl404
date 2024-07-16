@@ -9,13 +9,15 @@
 <br/>
  
 <div align="center"> 
-  <a href="mailto:volka085@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="https://www.linkedin.com/in/arturas-viachirevas">
+    <img src="https://img.shields.io/badge/Linkedin-333333?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://t.me/Howl404">
-    <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor="cyan" />
+    <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram" />
   </a>
 </div>
+
+
 
  <hr/>
  
